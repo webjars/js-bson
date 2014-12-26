@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>js-bson</artifactId>
-    <version>0.2.16-SNAPSHOT</version>
+    <version>0.2.16</version>
     <name>js-bson</name>
     <description>WebJar for js-bson</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/js-bson</url>
         <connection>scm:git:https://github.com/webjars/js-bson.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/js-bson.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>js-bson-0.2.16</tag>
     </scm>
     
     <build>
